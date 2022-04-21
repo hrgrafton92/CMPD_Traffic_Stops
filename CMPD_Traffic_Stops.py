@@ -5,6 +5,7 @@ import streamlit as st
 import seaborn as sns
 from st_btn_select import st_btn_select
 import datetime as dt
+from PIL import Image
 
 stops = pd.read_csv("stops_2020_trimmed.csv")
 isinstance(stops['Month_of_Stop'], dt.date) # False
@@ -32,7 +33,8 @@ if page == 'Home Page':
     '''
     )
     
-    st.image('pulled_over_green.png',use_column_width=True)
+    image = Image('pulled_over_green.png')
+    st.image(image)
     
     st.write(
     '''
