@@ -33,7 +33,7 @@ if page == 'Home Page':
     '''
     )
     
-    image = Image('pulled_over_green.png')
+    image = Image.open('pulled_over_green.png')
     st.image(image)
     
     st.write(
