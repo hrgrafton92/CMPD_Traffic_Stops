@@ -14,7 +14,6 @@ stops['Month_of_Stop'] = pd.to_datetime(stops['Month_of_Stop'], format='%y%m%d')
 stops['Month_of_Stop'] = pd.to_datetime(stops['Month_of_Stop']).dt.date
 #stops['Was_a_Search_Conducted'] = [1 if x == 0 else 0 for x in stops['Was_a_Search_Conducted']]
 stops['Was_a_Search_Conducted']= 1 - stops['Was_a_Search_Conducted']
-from PIL import Image
 
 page = st_btn_select(
   # The different pages
@@ -33,8 +32,8 @@ if page == 'Home Page':
     # Predicting CMPD Traffic Stops Outcomes
     '''
     )
-    image = Image.open('pulled_over_green.png')
-    st.image(image)
+    
+    st.image('pulled_over_green.png',use_column_width=True)
     
     st.write(
     '''
