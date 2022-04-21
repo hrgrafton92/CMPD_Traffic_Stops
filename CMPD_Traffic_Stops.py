@@ -16,11 +16,6 @@ stops['Month_of_Stop'] = pd.to_datetime(stops['Month_of_Stop']).dt.date
 stops['Was_a_Search_Conducted']= 1 - stops['Was_a_Search_Conducted']
 from PIL import Image
 
-st.text("")
-st.text("")
-st.text("")
-st.text("")
-st.text("")
 page = st_btn_select(
   # The different pages
   ('Home Page','Drivers', 'CMPD Divisions & Officers'),
