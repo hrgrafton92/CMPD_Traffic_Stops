@@ -5,6 +5,7 @@ import streamlit as st
 import seaborn as sns
 from st_btn_select import st_btn_select
 import datetime as dt
+import streamlit.components.v1 as components
 
 stops = pd.read_csv("stops_2020_trimmed.csv")
 isinstance(stops['Month_of_Stop'], dt.date) # False
