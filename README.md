@@ -25,10 +25,10 @@ Data is available at the [Charlotte Data Portal](https://data.charlottenc.gov/da
 - Parameter tuning
 ### Visualize/Understand output
 ### Create Streamlit App
-Streamlit app to make the dataset easily accessible for anyone. Preliminary EDA efforts are made available [here](google.com).
+Streamlit app to make the dataset easily accessible for anyone. Preliminary EDA efforts are made available [here](google.com). Source code and files are located in Streamlit folder.
 
 ### Create R Shiny App
-
+Streamlit app to make the dataset easily accessible for anyone. Preliminary EDA efforts are made available [here](google.com). Source code and files for R Project are located in R_Shiny folder.
 
 ### Create Tableau dashboard
 Tableau Public dashboard to concisely show EDA on the dataset, while also identifying main trends present within the data. The dashboard can be found [here](https://public.tableau.com/app/profile/harley.grafton2858/viz/CMPDTrafficStops/HomeDashboard)
