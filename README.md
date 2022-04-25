@@ -23,7 +23,9 @@ Data is available at the [Charlotte Data Portal](https://data.charlottenc.gov/da
 - Decision Tree/Random Forest
 - Logistic regression
 - Parameter tuning
-### Visualize/Understand output
+
+All modelling efforts can be found within the Preprocessing_and_Modeling folder
+
 ### Create Streamlit App
 Streamlit app to make the dataset easily accessible for anyone. Preliminary EDA efforts are made available [here](google.com). Source code and files are located in Streamlit folder.
 
