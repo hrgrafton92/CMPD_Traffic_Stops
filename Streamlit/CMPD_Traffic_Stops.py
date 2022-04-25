@@ -6,7 +6,7 @@ import seaborn as sns
 from st_btn_select import st_btn_select
 import datetime as dt
 
-stops = pd.read_csv("stops_2020_trimmed.csv")
+stops = pd.read_csv("Streamlit/stops_2020_trimmed.csv")
 isinstance(stops['Month_of_Stop'], dt.date) # False
 stops['Month_of_Stop'] = stops['Month_of_Stop'].astype('datetime64[ns]')
 stops['Month_of_Stop'] = pd.to_datetime(stops['Month_of_Stop'], format='%y%m%d')
@@ -31,7 +31,7 @@ if page == 'Home Page':
     '''
     )
     
-    st.image('pulled_over_green.png',use_column_width=True)
+    st.image('Streamlit/pulled_over_green.png',use_column_width=True)
     
     st.write(
     '''
