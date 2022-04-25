@@ -51,7 +51,7 @@ if page == 'Home Page':
     
     * What solutions can we offer to reconcile disproportionalities based on demographic characteristics like race, ethnicity, and gender? 
     
-    Exploratory Data Analysis is made available to others via this Streamlit app, while the entire project and it's results may be found by visiting this project's **[Github.](https://github.com/SrikarVavilala/DSBA-6156-Group-3)**
+    Exploratory Data Analysis is made available to others via this Streamlit app, while the entire project and it's results may be found by visiting this project's **[Github.](https://github.com/hrgrafton92/CMPD_Traffic_Stops)**
     '''
     )
 # Total traffic stops plot
