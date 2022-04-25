@@ -24,7 +24,7 @@ Data is available at the [Charlotte Data Portal](https://data.charlottenc.gov/da
 - Logistic regression
 - Parameter tuning
 
-All modelling efforts can be found within the Preprocessing_and_Modeling folder
+All modeling efforts can be found within the Preprocessing_and_Modeling folder
 
 ### Create Streamlit App
 Streamlit app to make the dataset easily accessible for anyone. Preliminary EDA efforts are made available [here](https://share.streamlit.io/hrgrafton92/cmpd_traffic_stops/main/Streamlit/CMPD_Traffic_Stops.py). Source code and files are located in Streamlit folder.
