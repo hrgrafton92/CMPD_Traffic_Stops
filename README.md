@@ -1,4 +1,3 @@
-# DSBA 6156, Group 3
 # Predicting Charlotte Traffic Stop Outcomes
 
 ## Data Source
@@ -25,8 +24,15 @@ Data is available at the [Charlotte Data Portal](https://data.charlottenc.gov/da
 - Logistic regression
 - Parameter tuning
 ### Visualize/Understand output
-### (Potential) Create Streamlit App
-If we do create a streamlit app, describe and link [here](google.com).
+### Create Streamlit App
+Streamlit app to make the dataset easily accessible for anyone. Preliminary EDA efforts are made available [here](google.com).
+
+### Create R Shiny App
+
+
+### Create Tableau dashboard
+Tableau Public dashboard to concisely show EDA on the dataset, while also identifying main trends present within the data. The dashboard can be found [here](https://public.tableau.com/app/profile/harley.grafton2858/viz/CMPDTrafficStops/HomeDashboard)
+
 
 ## Findings
 Once finished, findings go here.
