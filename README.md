@@ -1,4 +1,6 @@
 # Predicting Charlotte Traffic Stop Outcomes
+This project was the result of two courses in the Data Science & Business Analytics master's program at UNC-Charlotte. The modeling and streamlit app were completed in Minwoo Lee's Applied Machine Learning class alongside [Mitchell Jones](https://github.com/mitchell-jones), [Srikar Vavilala](https://github.com/SrikarVavilala), Jordan Register, and Marianna Shaver. The R Shiny app was created in Chase Romano's Visual Analytics class alongside [Joseph Burnes](https://github.com/joeburns91) and [Syed Muhammad Suffwan](https://github.com/ss03516).
+
 
 ## Data Source
 Data is available at the [Charlotte Data Portal](https://data.charlottenc.gov/datasets/officer-traffic-stops/explore).
