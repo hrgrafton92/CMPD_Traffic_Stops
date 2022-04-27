@@ -1,6 +1,5 @@
 # Predicting Charlotte Traffic Stop Outcomes
-This project was the result of two courses in the Data Science & Business Analytics master's program at UNC-Charlotte. The modeling and streamlit app were completed in Minwoo Lee's Applied Machine Learning class alongside [Mitchell Jones](https://github.com/mitchell-jones), [Srikar Vavilala](https://github.com/SrikarVavilala), Jordan Register, and Marianna Shaver. The R Shiny app was created in Chase Romano's Visual Analytics class alongside [Joseph Burnes](https://github.com/joeburns91) and [Syed Muhammad Suffwan](https://github.com/ss03516).
-
+This project was the result of two courses in the Data Science & Business Analytics master's program at UNC-Charlotte. The modeling and streamlit app were completed in Minwoo Lee's Applied Machine Learning class alongside [Mitchell Jones](https://github.com/mitchell-jones), [Srikar Vavilala](https://github.com/SrikarVavilala), Jordan Register, and Marianna Shaver. The R Shiny app was created in Chase Romano's Visual Analytics class alongside [Joseph Burnes](https://github.com/joeburns91) and [Syed Muhammad Suffwan](https://github.com/ss03516). The tableau dashboard is my own.
 
 ## Data Source
 Data is available at the [Charlotte Data Portal](https://data.charlottenc.gov/datasets/officer-traffic-stops/explore).
@@ -29,10 +28,10 @@ Data is available at the [Charlotte Data Portal](https://data.charlottenc.gov/da
 All modeling efforts can be found within the Preprocessing_and_Modeling folder
 
 ### Create Streamlit App
-Streamlit app to make the dataset easily accessible for anyone. Preliminary EDA efforts are made available [here](https://share.streamlit.io/hrgrafton92/cmpd_traffic_stops/main/Streamlit/CMPD_Traffic_Stops.py). Source code and files are located in Streamlit folder.
+Streamlit app to make the dataset easily accessible for anyone. Preliminary EDA efforts are made available [here](https://share.streamlit.io/hrgrafton92/cmpd_traffic_stops/main/Streamlit/CMPD_Traffic_Stops.py). Source code and files are located in Streamlit folder to be able to run the app from an IDE rather than going to the link provided.
 
 ### Create R Shiny App
-R Shiny app to make the dataset easily accessible for anyone. Preliminary EDA efforts are made available [here](google.com). (once completed) Source code and files for R Project are located in R_Shiny folder.
+R Shiny app to make the dataset easily accessible for anyone. Preliminary EDA efforts are made available [here](google.com). (once completed) Source code and files for the R Project are located in R_Shiny folder to be able to run the app from R studio rather than going to the link provided.
 
 ### Create Tableau dashboard
 Tableau Public dashboard to concisely show EDA on the dataset, while also identifying main trends present within the data. The dashboard can be found [here](https://public.tableau.com/app/profile/harley.grafton2858/viz/CMPDTrafficStops/HomeDashboard)
