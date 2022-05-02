@@ -31,7 +31,10 @@ All modeling efforts can be found within the Preprocessing_and_Modeling folder
 Streamlit app to make the dataset easily accessible for anyone. Preliminary EDA efforts are made available [here](https://share.streamlit.io/hrgrafton92/cmpd_traffic_stops/main/Streamlit/CMPD_Traffic_Stops.py). Source code and files are located in Streamlit folder to be able to run the app from an IDE rather than going to the link provided.
 
 ### Create R Shiny App
-R Shiny app to make the dataset easily accessible for anyone. Preliminary EDA efforts are made available [here](google.com). (once completed) Source code and files for the R Project are located in R_Shiny folder to be able to run the app from R studio rather than going to the link provided.
+R Shiny app to make the dataset easily accessible for anyone. Preliminary EDA efforts are made available [here](https://grafton-shiny.shinyapps.io/CMPD_Traffic_Stops_Final/). Source code and files for the R Project are located in R_Shiny folder to be able to run the app from Rstudio rather than going to the link provided. To do so,
+- Download all items in the R_Shiny folder
+- Open CMPD_Traffic_Stops_Shiny.R
+- Click "Run App" in the top-right corner of the code panel
 
 ### Create Tableau dashboard
 Tableau Public dashboard to concisely show EDA on the dataset, while also identifying main trends present within the data. The dashboard can be found [here](https://public.tableau.com/app/profile/harley.grafton2858/viz/CMPDTrafficStops/HomeDashboard)
