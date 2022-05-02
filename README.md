@@ -41,7 +41,10 @@ Tableau Public dashboard to concisely show EDA on the dataset, while also identi
 
 
 ## Findings
-Once finished, findings go here.
+- Driver_Race was a relevant predictor variable for our model, but had lower relevance than anticipated.
+- The Fairness Metric had a minor positive effect on model performance but was limited by the Driver_Race variable's low correlation
+- Final model performance was lower than expectations/desires
+- Through EDA and comparison with 3rd party local demographic and income data, there is likely traffic discrimination that is not captured by the model due to sampling bias of a dataset that only contains driver's who have already been stopped. This may help explain the lower than expected relevance of Driver_Race variable.
 
 ## Import Endnotes
 We realize that by analyzing this dataset, we could shed light on a potentially controversial topic, that is, how the race/ethnicity/gender of the driver/officier can help to predict the outcome of a traffic stop. 
