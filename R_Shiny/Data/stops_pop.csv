@@ -1,0 +1,154 @@
+"CMPD_Division","driver_race_clean","percent_of_stops","percent_of_pop","year","pct_difference"
+"Central Division","Asian",0.013325608,0.01535,2020,-0.2024392
+"Central Division","Black",0.612977984,0.0671,2020,54.5877984
+"Central Division","Hispanic",0.079084589,0.05345,2020,2.5634589
+"Central Division","Other/Unknown",0.026651217,NA,2020,NA
+"Central Division","White",0.267960603,0.87735,2020,-60.9389397
+"Eastway Division","Asian",0.017035398,0.0225,2020,-0.5464602
+"Eastway Division","Black",0.494911504,0.1209,2020,37.4011504
+"Eastway Division","Hispanic",0.274115044,0.0332,2020,24.0915044
+"Eastway Division","Native American",0.000442478,0.0021,2020,-0.1657522
+"Eastway Division","Other/Unknown",0.017920354,NA,2020,NA
+"Eastway Division","White",0.195575221,0.8312,2020,-63.5624779
+"Freedom Division","Asian",0.015451342,0.0257,2020,-1.0248658
+"Freedom Division","Black",0.607210626,0.4069,2020,20.0310626
+"Freedom Division","Hispanic",0.086202223,0.0291,2020,5.7102223
+"Freedom Division","Native American",0.001355381,0.00325,2020,-0.1894619
+"Freedom Division","Other/Unknown",0.015451342,NA,2020,NA
+"Freedom Division","White",0.274329086,0.53985,2020,-26.5520914
+"Hickory Grove Division","Asian",0.014194915,0.02535,2020,-1.1155085
+"Hickory Grove Division","Black",0.566313559,0.3256,2020,24.0713559
+"Hickory Grove Division","Hispanic",0.222033898,0.07245,2020,14.9583898
+"Hickory Grove Division","Native American",0.000635593,0.0045,2020,-0.3864407
+"Hickory Grove Division","Other/Unknown",0.013559322,NA,2020,NA
+"Hickory Grove Division","White",0.183262712,0.5921,2020,-40.8837288
+"Independence Division","Asian",0.021751051,0.03295,2020,-1.1198949
+"Independence Division","Black",0.532261013,0.2349,2020,29.7361013
+"Independence Division","Hispanic",0.146225553,0.07805,2020,6.8175553
+"Independence Division","Other/Unknown",0.020471577,NA,2020,NA
+"Independence Division","White",0.279290806,0.67795,2020,-39.8659194
+"Metro Division","Asian",0.005724351,0.008566667,2020,-0.2842316
+"Metro Division","Black",0.83773668,0.4545,2020,38.323668
+"Metro Division","Hispanic",0.047996477,0.015366667,2020,3.262981
+"Metro Division","Other/Unknown",0.017613386,NA,2020,NA
+"Metro Division","White",0.090929106,0.515633333,2020,-42.4704227
+"North Division","Asian",0.012159111,0.0142,2020,-0.2040889
+"North Division","Black",0.696195935,0.0801,2020,61.6095935
+"North Division","Hispanic",0.073475769,0.0367,2020,3.6775769
+"North Division","Native American",0.000347403,0.0038,2020,-0.3452597
+"North Division","Other/Unknown",0.019975682,NA,2020,NA
+"North Division","White",0.1978461,0.8802,2020,-68.23539
+"North Tryon Division","Asian",0.009905163,0.029,2020,-1.9094837
+"North Tryon Division","Black",0.725816649,0.0801,2020,64.5716649
+"North Tryon Division","Hispanic",0.157639621,0.1248,2020,3.2839621
+"North Tryon Division","Native American",0.000210748,0.00385,2020,-0.3639252
+"North Tryon Division","Other/Unknown",0.014963119,NA,2020,NA
+"North Tryon Division","White",0.0914647,0.28795,2020,-19.64853
+"Providence Division","Asian",0.018512397,0.00715,2020,1.1362397
+"Providence Division","Black",0.34677686,0.2164,2020,13.037686
+"Providence Division","Hispanic",0.079669421,0.01225,2020,6.7419421
+"Providence Division","Native American",0.001652893,0.00225,2020,-0.0597107
+"Providence Division","Other/Unknown",0.027933884,NA,2020,NA
+"Providence Division","White",0.525454545,0.76145,2020,-23.5995455
+"South Division","Asian",0.035005304,0.036525,2020,-0.1519696
+"South Division","Black",0.271101682,0.065,2020,20.6101682
+"South Division","Hispanic",0.114108198,0.0415,2020,7.2608198
+"South Division","Native American",0.000454614,0.002025,2020,-0.1570386
+"South Division","Other/Unknown",0.036520685,NA,2020,NA
+"South Division","White",0.542809517,0.86805,2020,-32.5240483
+"Steele Creek Division","Asian",0.02300406,0.034166667,2020,-1.1162607
+"Steele Creek Division","Black",0.473161931,0.179433333,2020,29.3728598
+"Steele Creek Division","Hispanic",0.233649075,0.047833333,2020,18.5815742
+"Steele Creek Division","Native American",0.00090212,0.0031,2020,-0.219788
+"Steele Creek Division","Other/Unknown",0.032927379,NA,2020,NA
+"Steele Creek Division","White",0.236355435,0.7463,2020,-50.9944565
+"University City Division","Asian",0.015173945,0.0526,2020,-3.7426055
+"University City Division","Black",0.677091044,0.3345,2020,34.2591044
+"University City Division","Hispanic",0.090488527,0.081533333,2020,0.8955194
+"University City Division","Native American",0.000370096,0.0035,2020,-0.3129904
+"University City Division","Other/Unknown",0.027017024,NA,2020,NA
+"University City Division","White",0.189859363,0.5407,2020,-35.0840637
+"Westover Division","Asian",0.01179444,0.0291,2020,-1.730556
+"Westover Division","Black",0.578770008,0.5657,2020,1.3070008
+"Westover Division","Hispanic",0.158663297,0.1796,2020,-2.0936703
+"Westover Division","Native American",0.00056164,0.006,2020,-0.543836
+"Westover Division","Other/Unknown",0.0154451,NA,2020,NA
+"Westover Division","White",0.234765515,0.2991,2020,-6.4334485
+"Central Division","Asian",0.012458472,0.01535,2021,-0.2891528
+"Central Division","Black",0.63538206,0.0671,2021,56.828206
+"Central Division","Hispanic",0.093646179,0.05345,2021,4.0196179
+"Central Division","Native American",0.000622924,0.00295,2021,-0.2327076
+"Central Division","Other/Unknown",0.033637874,NA,2021,NA
+"Central Division","White",0.224252492,0.87735,2021,-65.3097508
+"Eastway Division","Asian",0.02106319,0.0225,2021,-0.143681
+"Eastway Division","Black",0.479103979,0.1209,2021,35.8203979
+"Eastway Division","Hispanic",0.275994651,0.0332,2021,24.2794651
+"Eastway Division","Native American",0.000835841,0.0021,2021,-0.1264159
+"Eastway Division","Other/Unknown",0.018388499,NA,2021,NA
+"Eastway Division","White",0.204613842,0.8312,2021,-62.6586158
+"Freedom Division","Asian",0.01656051,0.0257,2021,-0.913949
+"Freedom Division","Black",0.568471338,0.4069,2021,16.1571338
+"Freedom Division","Hispanic",0.098566879,0.0291,2021,6.9466879
+"Freedom Division","Native American",0.000159236,0.00325,2021,-0.3090764
+"Freedom Division","Other/Unknown",0.015764331,NA,2021,NA
+"Freedom Division","White",0.300477707,0.53985,2021,-23.9372293
+"Hickory Grove Division","Asian",0.017878427,0.02535,2021,-0.7471573
+"Hickory Grove Division","Black",0.564958284,0.3256,2021,23.9358284
+"Hickory Grove Division","Hispanic",0.218712753,0.07245,2021,14.6262753
+"Hickory Grove Division","Native American",0.001191895,0.0045,2021,-0.3308105
+"Hickory Grove Division","Other/Unknown",0.021255463,NA,2021,NA
+"Hickory Grove Division","White",0.176003178,0.5921,2021,-41.6096822
+"Independence Division","Asian",0.021912351,0.03295,2021,-1.1037649
+"Independence Division","Black",0.52426657,0.2349,2021,28.936657
+"Independence Division","Hispanic",0.156102861,0.07805,2021,7.8052861
+"Independence Division","Native American",0.000724375,0.00375,2021,-0.3025625
+"Independence Division","Other/Unknown",0.024085476,NA,2021,NA
+"Independence Division","White",0.272908367,0.67795,2021,-40.5041633
+"Metro Division","Asian",0.005722892,0.008566667,2021,-0.2843775
+"Metro Division","Black",0.818222892,0.4545,2021,36.3722892
+"Metro Division","Hispanic",0.059487952,0.015366667,2021,4.4121285
+"Metro Division","Native American",0.00060241,0.003133333,2021,-0.2530923
+"Metro Division","Other/Unknown",0.015963855,NA,2021,NA
+"Metro Division","White",0.1,0.515633333,2021,-41.5633333
+"North Division","Asian",0.009631878,0.0142,2021,-0.4568122
+"North Division","Black",0.719356116,0.0801,2021,63.9256116
+"North Division","Hispanic",0.088138277,0.0367,2021,5.1438277
+"North Division","Native American",0.000527774,0.0038,2021,-0.3272226
+"North Division","Other/Unknown",0.01570128,NA,2021,NA
+"North Division","White",0.166644676,0.8802,2021,-71.3555324
+"North Tryon Division","Asian",0.011049724,0.029,2021,-1.7950276
+"North Tryon Division","Black",0.715894603,0.5949,2021,12.0994603
+"North Tryon Division","Hispanic",0.160858479,0.1248,2021,3.6058479
+"North Tryon Division","Native American",0.000212495,0.00385,2021,-0.3637505
+"North Tryon Division","Other/Unknown",0.021674458,NA,2021,NA
+"North Tryon Division","White",0.090310242,0.28795,2021,-19.7639758
+"Providence Division","Asian",0.021361435,0.00715,2021,1.4211435
+"Providence Division","Black",0.364426089,0.2164,2021,14.8026089
+"Providence Division","Hispanic",0.089718029,0.01225,2021,7.7468029
+"Providence Division","Native American",0.000427229,0.00225,2021,-0.1822771
+"Providence Division","Other/Unknown",0.027627457,NA,2021,NA
+"Providence Division","White",0.496439761,0.76145,2021,-26.5010239
+"South Division","Asian",0.032430587,0.036525,2021,-0.409441300000001
+"South Division","Black",0.284251252,0.065,2021,21.9251252
+"South Division","Hispanic",0.117319071,0.0415,2021,7.5819071
+"South Division","Native American",0.001024124,0.002025,2021,-0.1000876
+"South Division","Other/Unknown",0.033682294,NA,2021,NA
+"South Division","White",0.531292672,0.86805,2021,-33.6757328
+"Steele Creek Division","Asian",0.018939394,0.034166667,2021,-1.5227273
+"Steele Creek Division","Black",0.483333333,0.179433333,2021,30.39
+"Steele Creek Division","Hispanic",0.253787879,0.047833333,2021,20.5954546
+"Steele Creek Division","Native American",0.000757576,0.0031,2021,-0.2342424
+"Steele Creek Division","Other/Unknown",0.025,NA,2021,NA
+"Steele Creek Division","White",0.218181818,0.7463,2021,-52.8118182
+"University City Division","Asian",0.017381941,0.0526,2021,-3.5218059
+"University City Division","Black",0.68850946,0.3345,2021,35.400946
+"University City Division","Hispanic",0.095523766,0.081533333,2021,1.3990433
+"University City Division","Native American",0.000769112,0.0035,2021,-0.2730888
+"University City Division","Other/Unknown",0.029380095,NA,2021,NA
+"University City Division","White",0.168435625,0.5407,2021,-37.2264375
+"Westover Division","Asian",0.015858493,0.0291,2021,-1.3241507
+"Westover Division","Black",0.560231778,0.5657,2021,-0.546822199999997
+"Westover Division","Hispanic",0.169868862,0.1796,2021,-0.9731138
+"Westover Division","Native American",0.000304971,0.006,2021,-0.5695029
+"Westover Division","Other/Unknown",0.021652943,NA,2021,NA
+"Westover Division","White",0.232082952,0.2991,2021,-6.7017048
