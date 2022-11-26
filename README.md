@@ -1,13 +1,15 @@
 # Predicting Charlotte Traffic Stop Outcomes
-This project was the result of two courses in the Data Science & Business Analytics master's program at UNC-Charlotte. The modeling and streamlit app were completed in Minwoo Lee's Applied Machine Learning class alongside [Mitchell Jones](https://github.com/mitchell-jones), [Srikar Vavilala](https://github.com/SrikarVavilala), Jordan Register, and Marianna Shaver. The R Shiny app was created in Chase Romano's Visual Analytics class alongside [Joseph Burnes](https://github.com/joeburns91) and [Syed Muhammad Suffwan](https://github.com/ss03516). The tableau dashboard is my own also created in Visual Analytics.
-
-## Data Source
-Data is available at the [Charlotte Data Portal](https://data.charlottenc.gov/datasets/officer-traffic-stops/explore).
 
 ## Research Questions
 1. Which of the **general attributes** correlate the most with the **outcome of the traffic stop** (i.e. search conducted, verbal warning, written warning, citation issued, no action, arrest).
 2. What **driver attributes** (race, ethnicity, gender, age) correlate the most with the **outcome of the traffic stop**?
 3. What **officer attributes** (race, gender, years of service) correlate the most with the **outcome of the traffic stop**?
+
+## Findings
+- Driver_Race was a relevant predictor variable for our model, but had lower relevance than anticipated.
+- The Fairness Metric had a minor positive effect on model performance but was limited by the Driver_Race variable's low correlation
+- Final model performance was lower than expectations/desires
+- Through EDA and comparison with 3rd party local demographic and income data, there is likely traffic discrimination that is not captured by the model due to sampling bias of a dataset that only contains driver's who have already been stopped. This may help explain the lower than expected relevance of Driver_Race variable.
 
 ## Steps and Approaches
 ### Preprocessing/clean the dataset: 
@@ -41,16 +43,14 @@ R Shiny app to make the dataset easily accessible for anyone [here](https://graf
 ### Create Tableau dashboard
 Tableau Public dashboard to concisely show EDA on the dataset, while also identifying main trends present within the data. The dashboard can be found [here](https://public.tableau.com/app/profile/harley.grafton2858/viz/CMPDTrafficStops/HomeDashboard)
 
-
-## Findings
-- Driver_Race was a relevant predictor variable for our model, but had lower relevance than anticipated.
-- The Fairness Metric had a minor positive effect on model performance but was limited by the Driver_Race variable's low correlation
-- Final model performance was lower than expectations/desires
-- Through EDA and comparison with 3rd party local demographic and income data, there is likely traffic discrimination that is not captured by the model due to sampling bias of a dataset that only contains driver's who have already been stopped. This may help explain the lower than expected relevance of Driver_Race variable.
-
 ## Import Endnotes
 We realize that by analyzing this dataset, we could shed light on a potentially controversial topic, that is, how the race/ethnicity/gender of the driver/officier can help to predict the outcome of a traffic stop. 
 
 If this is a finding, it should not be used to guide police targeting, but rather to illuminate bias in traffic stops.  Note that being able to predict the outcome of a traffic stop based on race, ethnicity or gender is inherently unethical/discriminatory. Ideally, traffic stop outcomes based on these characteristics should be proportional to the demographic population of the area under observation.  
 
 Regardless of our findings, we would like to be explicit about the fact that none of our findings are causal. Rather they shed light on correlations in the data that may be used to dismantle bias in policing. 
+
+## Data Source
+Data is available at the [Charlotte Data Portal](https://data.charlottenc.gov/datasets/officer-traffic-stops/explore).
+
+This project was the result of two courses in the Data Science & Business Analytics master's program at UNC-Charlotte. The modeling and streamlit app were completed in Minwoo Lee's Applied Machine Learning class alongside [Mitchell Jones](https://github.com/mitchell-jones), [Srikar Vavilala](https://github.com/SrikarVavilala), Jordan Register, and Marianna Shaver. The R Shiny app was created in Chase Romano's Visual Analytics class alongside [Joseph Burnes](https://github.com/joeburns91) and [Syed Muhammad Suffwan](https://github.com/ss03516). The tableau dashboard is my own also created in Visual Analytics.
