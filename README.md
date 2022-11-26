@@ -9,8 +9,11 @@
 - Driver_Race was a relevant predictor variable for our model, but had lower relevance than anticipated.
 ![Chi-Squared](https://github.com/hrgrafton92/CMPD_Traffic_Stops/blob/main/chi_squared.png)
 - The Fairness Metric had a minor positive effect on model performance but was limited by the Driver_Race variable's low correlation
+![p-percent](https://github.com/hrgrafton92/CMPD_Traffic_Stops/blob/main/p_percent.png)
 - Final model performance was lower than expectations/desires
 - Through EDA and comparison with 3rd party local demographic and income data, there is likely traffic discrimination that is not captured by the model due to sampling bias of a dataset that only contains driver's who have already been stopped. This may help explain the lower than expected relevance of Driver_Race variable.
+![traffic stops by race](![image](https://github.com/hrgrafton92/CMPD_Traffic_Stops/blob/main/traffic_stops_by_race.png)
+
 
 ## Steps and Approaches
 ### Preprocessing/clean the dataset: 
